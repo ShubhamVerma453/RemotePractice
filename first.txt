@@ -2,4 +2,4 @@ first line  GITHUB
 second line GITHUB
 third line  LOCAL --------
 fourth line GITHUB
-fifth line  LOCAL --------
+fifth line GITHUB LOCAL --------
